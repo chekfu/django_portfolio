@@ -11,4 +11,4 @@ db.sqlite3
 .idea/
 /static
 venv/
-settings.py
+/portfolio/settings.py
